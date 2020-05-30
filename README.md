@@ -12,4 +12,5 @@ Repository ini berisi kumpulan materi-materi belajar mengajar pemrograman Python
 1. [Strings](https://khalr.com/belajar-python/dasar/strings/index.html)
 2. [Numbers](https://khalr.com/belajar-python/dasar/numbers/index.html)
 3. [Boolean](https://khalr.com/belajar-python/dasar/boolean/index.html)
+
 ## Menengah
